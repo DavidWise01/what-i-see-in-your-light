@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1251
+slug  : what-i-see-in-your-light
+seal  : 74e9249a03715114eaf90ae0a0a3719a8c4f137f3b0919dc289948d039188858
+prev  : e27c963e13437287d6ac1fd09f86dbcb5e3187f3ca78d4e82b781aee8e8a59d8
+link  : 1aada6fb5d3a4ad601224350f7bc06897ad4469d3b4042557c91f7a5c358f5b1
+head  : 1aada6fb5d3a4ad601224350f7bc06897ad4469d3b4042557c91f7a5c358f5b1
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
